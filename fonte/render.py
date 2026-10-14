@@ -140,7 +140,8 @@ def main():
             elif post["type"] == "single":
                 entry["image_url"] = f"{RAW}{folder}/slide-01.jpg"
             else:
-                entry["video_url"] = f"{CDN}{folder}/reel.mp4"
+                entry["video_url"] = f"{CDN}{folder}/reel.mp4"  # jsDelivr entrega como video/mp4
+                entry["video_url_alternativa"] = f"{RAW}{folder}/reel.mp4"
                 entry["cover_url"] = f"{RAW}{folder}/capa.jpg"
             cal.append(entry)
         b.close()
