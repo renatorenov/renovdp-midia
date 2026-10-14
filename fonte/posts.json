@@ -1,0 +1,234 @@
+[
+  {
+    "id": "02", "date": "2026-10-14", "type": "reel",
+    "tema": "Apresentação do perfil",
+    "frames": [
+      {"t": "hook", "title": "Toda empresa fecha a folha <em>todo mês</em>."},
+      {"t": "hook", "title": "Pouca gente confere se ela está <em>certa</em>."},
+      {"t": "hook", "title": "Erro de folha não some. Ele vira <em>passivo trabalhista</em>."},
+      {"t": "hook", "title": "Sou Renato. Mais de 10 anos em <em>Departamento Pessoal</em> na indústria."},
+      {"t": "hook", "title": "Aqui você aprende a ver o risco <em>antes</em> da reclamação."},
+      {"t": "cta", "title": "Siga para não errar no DP", "body": "@renato.dodp"}
+    ],
+    "caption": "Folha fechada não é folha certa.\n\nEu sou o Renato, trabalho há mais de 10 anos com Departamento Pessoal na indústria. Neste perfil eu mostro, de forma direta, onde o DP costuma gerar custo escondido e passivo trabalhista, e como evitar.\n\nConteúdo para donos e gestores que querem dormir tranquilos no fechamento do mês.\n\nSiga @renato.dodp e me conta nos comentários: qual a sua maior dor com o DP hoje?\n\n#departamentopessoal #gestaodepessoas #empresariosgoiania #goiania #folhadepagamento"
+  },
+  {
+    "id": "03", "date": "2026-10-15", "type": "carousel",
+    "tema": "Custo real de um empregado",
+    "slides": [
+      {"t": "cover", "kicker": "Para quem contrata", "title": "O salário é só a parte do custo que <em>aparece</em>", "body": "O que mais entra na conta de cada empregado CLT."},
+      {"t": "item", "n": "01", "title": "13º salário", "body": "Um salário a mais por ano, pago em duas parcelas. Precisa estar provisionado desde janeiro."},
+      {"t": "item", "n": "02", "title": "Férias + 1/3", "body": "Todo ano, o empregado tira férias remuneradas e recebe um terço a mais sobre o salário."},
+      {"t": "item", "n": "03", "title": "FGTS de 8%", "body": "Depositado todo mês sobre a remuneração, inclusive sobre 13º e férias."},
+      {"t": "item", "n": "04", "title": "INSS da empresa", "body": "Fora do Simples, em regra 20% sobre a folha, mais o seguro de acidente (RAT) e as contribuições a terceiros."},
+      {"t": "item", "n": "05", "title": "Benefícios e provisões", "body": "Vale-transporte, alimentação, plano de saúde e a reserva para uma futura rescisão."},
+      {"t": "cta", "title": "Você sabe o custo real da sua folha?", "body": "Comenta \"CUSTO\" aqui embaixo.", "extra": "Te mostro como calcular o custo por empregado da sua empresa. Fala comigo no direct."}
+    ],
+    "caption": "Quando o dono pensa em contratar, normalmente olha o salário. Mas o custo de um empregado CLT vai bem além disso.\n\n13º, férias com 1/3, FGTS, INSS patronal, benefícios e a provisão de rescisão entram todos na conta. Quem não enxerga esse número toma decisão de contratação no escuro.\n\nSalva este post para consultar na próxima contratação.\n\n#departamentopessoal #custodefuncionario #gestaodepessoas #empresariosgoiania #goiania"
+  },
+  {
+    "id": "04", "date": "2026-10-16", "type": "single",
+    "tema": "Hora extra habitual",
+    "slide": {"t": "statement", "kicker": "Para pensar", "title": "Hora extra habitual não é exceção. É <em>custo fixo</em> que ninguém orçou.", "body": "E ainda reflete em férias, 13º, FGTS e descanso semanal."},
+    "caption": "Hora extra que aparece todo mês deixou de ser pontual.\n\nAlém do adicional de no mínimo 50%, a hora extra habitual reflete no descanso semanal remunerado, nas férias, no 13º e no FGTS. Ou seja: o custo é maior do que o valor que aparece no holerite.\n\nSe a sua operação depende de hora extra todo mês, o problema provavelmente é de dimensionamento, não de esforço.\n\nNa sua empresa, a hora extra é exceção ou rotina?\n\n#departamentopessoal #horaextra #gestaodepessoas #empresariosgoiania #goiania"
+  },
+  {
+    "id": "05", "date": "2026-10-19", "type": "carousel",
+    "tema": "Rescisão sem justa causa",
+    "slides": [
+      {"t": "cover", "kicker": "Demissão sem justa causa", "title": "O que a empresa <em>paga</em> na rescisão", "body": "As verbas que não podem faltar no cálculo."},
+      {"t": "item", "n": "01", "title": "Saldo de salário", "body": "Os dias trabalhados no mês da saída."},
+      {"t": "item", "n": "02", "title": "Aviso prévio", "body": "30 dias, mais 3 dias por ano completo de empresa, até o limite de 90 dias."},
+      {"t": "item", "n": "03", "title": "13º proporcional", "body": "1/12 por mês trabalhado no ano. Fração de 15 dias ou mais conta como mês inteiro."},
+      {"t": "item", "n": "04", "title": "Férias + 1/3", "body": "Férias vencidas, se houver, e as proporcionais, sempre com o terço constitucional."},
+      {"t": "item", "n": "05", "title": "Multa de 40% do FGTS", "body": "Calculada sobre todos os depósitos do contrato, não só sobre o saldo atual da conta."},
+      {"t": "cta", "title": "Prazo: 10 dias após o fim do contrato", "body": "Atrasou, paga multa de um salário.", "extra": "Quer conferir uma rescisão antes de pagar? Fala comigo no direct."}
+    ],
+    "caption": "Rescisão é o momento em que o erro de DP aparece com nome e valor.\n\nSaldo de salário, aviso prévio proporcional, 13º proporcional, férias com 1/3 e a multa de 40% do FGTS. Esquecer uma verba ou errar a base de cálculo vira diferença cobrada depois.\n\nE o prazo é curto: 10 dias após o término do contrato. Passou disso, multa de um salário do empregado.\n\nSalva para conferir na próxima rescisão.\n\n#departamentopessoal #rescisao #direitotrabalhista #empresariosgoiania #goiania"
+  },
+  {
+    "id": "06", "date": "2026-10-20", "type": "reel",
+    "tema": "Erros no banco de horas",
+    "frames": [
+      {"t": "hook", "title": "Seu banco de horas pode estar virando <em>hora extra</em>."},
+      {"t": "item", "n": "01", "title": "Prazo errado", "body": "Acordo individual escrito: compensação em até 6 meses. Acordo coletivo: até 1 ano."},
+      {"t": "item", "n": "02", "title": "Saldo vencido parado", "body": "Hora não compensada no prazo precisa ser paga como extra, com adicional."},
+      {"t": "item", "n": "03", "title": "Sem controle no ponto", "body": "Sem registro claro de crédito e débito, a empresa não consegue provar a compensação."},
+      {"t": "cta", "title": "Quando foi a última vez que alguém conferiu o seu?", "body": "@renato.dodp"}
+    ],
+    "caption": "Banco de horas é uma ótima ferramenta. Mal controlado, vira hora extra acumulada.\n\nOs 3 erros mais comuns: usar prazo de compensação maior do que o acordo permite, deixar saldo vencer sem pagar e não ter o crédito e o débito claros no ponto.\n\nAcordo individual escrito: até 6 meses. Acordo ou convenção coletiva: até 1 ano.\n\nNa sua empresa, alguém acompanha os vencimentos do banco de horas?\n\n#departamentopessoal #bancodehoras #controledeponto #empresariosgoiania #goiania"
+  },
+  {
+    "id": "07", "date": "2026-10-21", "type": "single",
+    "tema": "Checklist de fechamento da folha",
+    "slide": {"t": "check", "kicker": "Salve este checklist", "title": "Antes de fechar a folha, confira:", "items": ["Ponto tratado e sem marcações pendentes", "Horas extras batendo com o ponto", "Atestados e faltas lançados", "Admissões e desligamentos no eSocial", "Reajuste e cláusulas da CCT aplicados", "Descontos de benefícios corretos"]},
+    "caption": "Seis conferências que evitam a maior parte dos erros de folha.\n\nParece básico, mas é exatamente no básico que o passivo trabalhista nasce: uma hora extra que não bate com o ponto, um atestado não lançado, um reajuste da convenção esquecido.\n\nSalva este post e usa no próximo fechamento.\n\nQual desses itens mais dá trabalho na sua empresa?\n\n#departamentopessoal #folhadepagamento #esocial #empresariosgoiania #goiania"
+  },
+  {
+    "id": "08", "date": "2026-10-22", "type": "carousel",
+    "tema": "Atestado médico",
+    "slides": [
+      {"t": "cover", "kicker": "Afastamento por doença", "title": "Atestado médico: <em>quem paga</em> o quê", "body": "A regra que todo gestor precisa saber."},
+      {"t": "item", "n": "01", "title": "Até 15 dias: a empresa", "body": "Os primeiros 15 dias de afastamento são pagos pela empresa, como salário normal."},
+      {"t": "item", "n": "02", "title": "A partir do 16º dia: o INSS", "body": "O empregado é encaminhado à perícia e passa a receber o benefício por incapacidade."},
+      {"t": "item", "n": "03", "title": "Atestados que se somam", "body": "Afastamentos pela mesma doença dentro de 60 dias se somam para contar os 15 dias."},
+      {"t": "item", "n": "04", "title": "Acidente de trabalho", "body": "Emita a CAT. Após o benefício acidentário, o empregado tem 12 meses de estabilidade."},
+      {"t": "cta", "title": "Sua empresa controla os atestados por doença?", "body": "Comenta \"ATESTADO\" que eu te explico.", "extra": "Afastamento mal controlado vira pagamento indevido ou briga com o INSS."}
+    ],
+    "caption": "Atestado médico é rotina no DP, e mesmo assim gera muita dúvida.\n\nAté 15 dias de afastamento, quem paga é a empresa. A partir do 16º dia, o empregado vai para o INSS. E atenção: afastamentos pela mesma doença dentro de 60 dias se somam.\n\nNo acidente de trabalho, emitir a CAT é obrigação, e o empregado tem estabilidade de 12 meses após voltar do benefício acidentário.\n\nSalva para a próxima vez que chegar um atestado.\n\n#departamentopessoal #atestadomedico #direitotrabalhista #empresariosgoiania #goiania"
+  },
+  {
+    "id": "09", "date": "2026-10-23", "type": "reel",
+    "tema": "Contrato de experiência",
+    "frames": [
+      {"t": "hook", "title": "Contrato de experiência: <em>3 regras</em> que muita empresa erra."},
+      {"t": "item", "n": "01", "title": "No máximo 90 dias", "body": "Somando o período inicial e a prorrogação."},
+      {"t": "item", "n": "02", "title": "Só uma prorrogação", "body": "Prorrogou duas vezes, o contrato passa a ser por prazo indeterminado."},
+      {"t": "item", "n": "03", "title": "Gestante tem estabilidade", "body": "Mesmo no contrato de experiência, a gravidez garante o emprego."},
+      {"t": "cta", "title": "Salve e mande para quem cuida das contratações", "body": "@renato.dodp"}
+    ],
+    "caption": "O contrato de experiência parece simples, mas três detalhes viram problema com frequência.\n\n1. O limite é de 90 dias no total.\n2. Só pode ser prorrogado uma vez dentro desse limite.\n3. A empregada gestante tem estabilidade mesmo no contrato de experiência.\n\nEncerrar um contrato que já virou indeterminado, ou dispensar uma gestante achando que a experiência protege, é passivo certo.\n\nManda para quem cuida das contratações na sua empresa.\n\n#departamentopessoal #contratodeexperiencia #direitotrabalhista #empresariosgoiania #goiania"
+  },
+  {
+    "id": "10", "date": "2026-10-26", "type": "carousel",
+    "tema": "13º salário",
+    "slides": [
+      {"t": "cover", "kicker": "Vem aí", "title": "13º salário: os prazos que <em>não podem</em> escorregar", "body": "E os detalhes que mais geram erro."},
+      {"t": "item", "n": "01", "title": "1ª parcela: até 30/11", "body": "Metade do salário, sem desconto de INSS e de Imposto de Renda."},
+      {"t": "item", "n": "02", "title": "2ª parcela: até 20/12", "body": "Os descontos de INSS e IR são calculados sobre o valor total do 13º."},
+      {"t": "item", "n": "03", "title": "Variáveis entram na conta", "body": "Horas extras, adicionais e comissões habituais entram pela média do ano."},
+      {"t": "item", "n": "04", "title": "Adiantamento nas férias", "body": "Quem pediu a 1ª parcela junto com as férias já recebeu. Não pague de novo."},
+      {"t": "cta", "title": "O caixa da sua empresa já está pronto?", "body": "Comenta \"13\" que eu te mando um lembrete.", "extra": "Provisão de 13º começa em janeiro, não em novembro."}
+    ],
+    "caption": "Novembro chega rápido, e com ele a primeira parcela do 13º.\n\n1ª parcela até 30 de novembro, sem descontos. 2ª parcela até 20 de dezembro, com INSS e IR calculados sobre o total. E as variáveis habituais, como horas extras e comissões, entram pela média.\n\nUm erro comum: pagar de novo a 1ª parcela para quem já recebeu o adiantamento junto com as férias.\n\nSalva e confere antes de rodar o 13º.\n\n#departamentopessoal #decimoterceiro #folhadepagamento #empresariosgoiania #goiania"
+  },
+  {
+    "id": "11", "date": "2026-10-27", "type": "single",
+    "tema": "Folha que resiste à auditoria",
+    "slide": {"t": "statement", "kicker": "Para pensar", "title": "Folha certa não é a que fecha. É a que <em>resiste</em> a uma auditoria.", "body": "Cada número precisa ter origem, regra e registro."},
+    "caption": "Fechar a folha no prazo é obrigação. Fechar uma folha que se sustenta numa fiscalização ou numa reclamação trabalhista é outra coisa.\n\nIsso significa que cada hora extra tem registro no ponto, cada desconto tem autorização, cada benefício segue a convenção e cada evento está no eSocial.\n\nSe hoje chegasse uma auditoria, sua folha estaria pronta?\n\n#departamentopessoal #folhadepagamento #compliancetrabalhista #empresariosgoiania #goiania"
+  },
+  {
+    "id": "12", "date": "2026-10-28", "type": "reel",
+    "tema": "Prazos de férias",
+    "frames": [
+      {"t": "hook", "title": "Férias: <em>3 prazos</em> que a empresa precisa cumprir."},
+      {"t": "item", "n": "01", "title": "Aviso com 30 dias", "body": "O empregado precisa ser avisado por escrito com pelo menos 30 dias de antecedência."},
+      {"t": "item", "n": "02", "title": "Pagamento 2 dias antes", "body": "Férias e o terço são pagos até 2 dias antes do início."},
+      {"t": "item", "n": "03", "title": "Concessão no prazo", "body": "Férias concedidas depois do período concessivo são pagas em dobro."},
+      {"t": "cta", "title": "Tem férias vencendo na sua empresa?", "body": "@renato.dodp"}
+    ],
+    "caption": "Férias têm três prazos que não podem passar.\n\n1. Aviso por escrito com 30 dias de antecedência.\n2. Pagamento das férias e do terço até 2 dias antes do início.\n3. Concessão dentro dos 12 meses seguintes ao período aquisitivo. Depois disso, a remuneração é paga em dobro.\n\nCom o fim de ano chegando, vale olhar agora quem está com férias vencendo.\n\n#departamentopessoal #ferias #direitotrabalhista #empresariosgoiania #goiania"
+  },
+  {
+    "id": "13", "date": "2026-10-29", "type": "carousel",
+    "tema": "Férias coletivas de fim de ano",
+    "slides": [
+      {"t": "cover", "kicker": "Fim de ano", "title": "Férias coletivas: o <em>passo a passo</em> para não errar", "body": "Quem vai parar em dezembro precisa se mexer agora."},
+      {"t": "item", "n": "01", "title": "Comunique com 15 dias", "body": "Ao Ministério do Trabalho, com datas de início e fim e setores abrangidos."},
+      {"t": "item", "n": "02", "title": "Avise o sindicato", "body": "Envie cópia da comunicação ao sindicato da categoria no mesmo prazo."},
+      {"t": "item", "n": "03", "title": "Afixe o aviso", "body": "Coloque a comunicação em local visível para os empregados."},
+      {"t": "item", "n": "04", "title": "No máximo 2 períodos", "body": "Até duas vezes no ano, nenhum período menor que 10 dias."},
+      {"t": "item", "n": "05", "title": "Quem tem menos de 1 ano", "body": "Goza férias proporcionais e começa um novo período aquisitivo."},
+      {"t": "cta", "title": "Micro e pequenas empresas", "body": "São dispensadas da comunicação ao Ministério do Trabalho.", "extra": "Vai dar férias coletivas? Fala comigo no direct que eu te ajudo a planejar."}
+    ],
+    "caption": "Quem vai parar a empresa no fim de ano precisa se organizar com antecedência.\n\nComunicar o Ministério do Trabalho com 15 dias, enviar cópia ao sindicato, afixar o aviso, respeitar o limite de dois períodos no ano (nenhum menor que 10 dias) e tratar corretamente quem tem menos de um ano de casa.\n\nMicro e pequenas empresas são dispensadas da comunicação ao Ministério do Trabalho.\n\nSalva e manda para quem cuida do DP na sua empresa.\n\n#departamentopessoal #feriascoletivas #direitotrabalhista #empresariosgoiania #goiania"
+  },
+  {
+    "id": "14", "date": "2026-10-30", "type": "single",
+    "tema": "Terceirizar o DP",
+    "slide": {"t": "statement", "kicker": "Departamento Pessoal terceirizado", "title": "Terceirizar o DP não é perder controle. É ter <em>alguém que confere</em>.", "body": "Você decide. O especialista executa e responde pelos números."},
+    "caption": "Muito dono de empresa tem receio de terceirizar o Departamento Pessoal por medo de perder o controle.\n\nNa prática, acontece o contrário: com um especialista, você passa a receber relatórios claros, prazos cumpridos e alguém que acompanha cada mudança de convenção, de eSocial e de legislação.\n\nO controle continua seu. O trabalho operacional e o risco técnico, não.\n\nQuer entender como isso funcionaria na sua empresa? Fala comigo no direct.\n\n#departamentopessoal #terceirizacao #bpo #empresariosgoiania #goiania"
+  },
+  {
+    "id": "15", "date": "2026-11-03", "type": "carousel",
+    "tema": "Registro de ponto",
+    "slides": [
+      {"t": "cover", "kicker": "Controle de jornada", "title": "Registro de ponto: o que a lei <em>exige</em>", "body": "E por que vale registrar mesmo quando não é obrigatório."},
+      {"t": "item", "n": "01", "title": "Mais de 20 empregados", "body": "Por estabelecimento, o registro de entrada e saída é obrigatório."},
+      {"t": "item", "n": "02", "title": "Manual, mecânico ou eletrônico", "body": "Todos são aceitos, desde que sigam as regras do Ministério do Trabalho."},
+      {"t": "item", "n": "03", "title": "Ponto por exceção", "body": "Registrar só as exceções à jornada é permitido, por acordo individual ou coletivo."},
+      {"t": "item", "n": "04", "title": "Horários sempre iguais", "body": "Cartões com marcações idênticas todo dia não valem como prova na Justiça."},
+      {"t": "cta", "title": "Ponto é a principal defesa da empresa", "body": "Mesmo abaixo de 20 empregados.", "extra": "Quer revisar o controle de ponto da sua empresa? Fala comigo no direct."}
+    ],
+    "caption": "Ponto não é burocracia. É a principal prova da empresa numa reclamação de horas extras.\n\nAcima de 20 empregados por estabelecimento, o registro é obrigatório. Pode ser manual, mecânico ou eletrônico, e o ponto por exceção é permitido por acordo.\n\nAtenção a um detalhe: cartão com horários sempre iguais, os chamados horários britânicos, não serve como prova.\n\nSalva e confere como está o ponto da sua empresa.\n\n#departamentopessoal #controledeponto #direitotrabalhista #empresariosgoiania #goiania"
+  },
+  {
+    "id": "16", "date": "2026-11-04", "type": "reel",
+    "tema": "Intervalo de almoço",
+    "frames": [
+      {"t": "hook", "title": "O intervalo de almoço pode estar <em>custando caro</em>."},
+      {"t": "item", "n": "01", "title": "Jornada acima de 6 horas", "body": "Intervalo mínimo de 1 hora para descanso e refeição."},
+      {"t": "item", "n": "02", "title": "Intervalo cortado", "body": "O tempo que faltou é pago com acréscimo de 50%."},
+      {"t": "item", "n": "03", "title": "Todo dia, o ano todo", "body": "Dez minutos por dia viram um valor relevante numa reclamação."},
+      {"t": "cta", "title": "Seu ponto mostra o intervalo completo?", "body": "@renato.dodp"}
+    ],
+    "caption": "Intervalo de almoço reduzido parece detalhe. Multiplicado por todos os dias e todos os empregados, não é.\n\nPara jornada acima de 6 horas, o intervalo mínimo é de 1 hora. Quando ele não é concedido por completo, a empresa paga o tempo suprimido com acréscimo de 50%.\n\nVale olhar o ponto e conferir se o intervalo está sendo respeitado de verdade.\n\n#departamentopessoal #intervalointrajornada #controledeponto #empresariosgoiania #goiania"
+  },
+  {
+    "id": "17", "date": "2026-11-05", "type": "carousel",
+    "tema": "Gestante na empresa",
+    "slides": [
+      {"t": "cover", "kicker": "Gestão de pessoas", "title": "Gestante na empresa: o que <em>muda</em> para o empregador", "body": "Direitos que precisam estar no radar do DP."},
+      {"t": "item", "n": "01", "title": "Estabilidade", "body": "Da confirmação da gravidez até 5 meses após o parto."},
+      {"t": "item", "n": "02", "title": "Vale em qualquer contrato", "body": "Inclusive no contrato de experiência e durante o aviso prévio."},
+      {"t": "item", "n": "03", "title": "Licença-maternidade", "body": "120 dias. Empresas no programa Empresa Cidadã podem estender para 180."},
+      {"t": "item", "n": "04", "title": "Consultas e exames", "body": "Dispensa do trabalho para, no mínimo, 6 consultas e exames, sem desconto."},
+      {"t": "cta", "title": "Sua equipe de gestão conhece essas regras?", "body": "Manda este post para os seus líderes.", "extra": "Dispensa de gestante é uma das causas mais comuns de reintegração na Justiça."}
+    ],
+    "caption": "Quando uma empregada engravida, algumas regras passam a valer e o DP precisa estar atento.\n\nEstabilidade desde a confirmação da gravidez até 5 meses após o parto, inclusive no contrato de experiência e no aviso prévio. Licença-maternidade de 120 dias, ou 180 para empresas do programa Empresa Cidadã. E dispensa para pelo menos 6 consultas e exames.\n\nManda para os líderes da sua empresa.\n\n#departamentopessoal #gestante #direitotrabalhista #empresariosgoiania #goiania"
+  },
+  {
+    "id": "18", "date": "2026-11-06", "type": "single",
+    "tema": "Lembrete 1ª parcela do 13º",
+    "slide": {"t": "statement", "kicker": "Lembrete", "title": "1ª parcela do 13º: <em>até 30 de novembro</em>.", "body": "Metade do salário, sem desconto de INSS e IR. Já está no caixa?"},
+    "caption": "Lembrete para quem cuida do caixa da empresa: a primeira parcela do 13º salário vence em 30 de novembro.\n\nO valor corresponde à metade do salário, sem descontos de INSS e Imposto de Renda. Quem já recebeu o adiantamento junto com as férias não recebe de novo.\n\nSalva para não esquecer e compartilha com quem cuida do financeiro.\n\n#departamentopessoal #decimoterceiro #folhadepagamento #empresariosgoiania #goiania"
+  },
+  {
+    "id": "19", "date": "2026-11-09", "type": "carousel",
+    "tema": "Admissão sem risco",
+    "slides": [
+      {"t": "cover", "kicker": "Contratação", "title": "Admissão sem risco: <em>5 etapas</em> antes do primeiro dia", "body": "O passivo trabalhista também nasce na entrada."},
+      {"t": "item", "n": "01", "title": "Exame admissional", "body": "Feito antes do empregado começar a trabalhar."},
+      {"t": "item", "n": "02", "title": "eSocial em dia", "body": "O cadastro do empregado precisa ser enviado até o dia anterior ao início."},
+      {"t": "item", "n": "03", "title": "Contrato assinado", "body": "Com função, salário, jornada e, se for o caso, o período de experiência."},
+      {"t": "item", "n": "04", "title": "Vale-transporte", "body": "Registre por escrito se o empregado optou ou não pelo benefício."},
+      {"t": "item", "n": "05", "title": "Integração documentada", "body": "Regulamento interno, normas e treinamentos com ciência assinada."},
+      {"t": "cta", "title": "Quantas etapas a sua admissão cumpre?", "body": "Comenta o número aqui embaixo.", "extra": "Admissão bem feita é a primeira defesa da empresa."}
+    ],
+    "caption": "Muita empresa só pensa em risco trabalhista na demissão. Mas boa parte dele nasce na admissão.\n\nExame admissional antes do início, cadastro no eSocial até o dia anterior, contrato assinado com função e jornada, opção de vale-transporte por escrito e integração documentada.\n\nQuantas dessas etapas a sua empresa cumpre hoje? Comenta o número.\n\n#departamentopessoal #admissao #esocial #empresariosgoiania #goiania"
+  },
+  {
+    "id": "20", "date": "2026-11-10", "type": "reel",
+    "tema": "Demissão por acordo",
+    "frames": [
+      {"t": "hook", "title": "Demissão por <em>acordo</em>: como funciona de verdade."},
+      {"t": "item", "n": "01", "title": "Multa de 20% do FGTS", "body": "Metade da multa da dispensa sem justa causa."},
+      {"t": "item", "n": "02", "title": "Aviso prévio pela metade", "body": "Quando indenizado. As demais verbas são pagas integralmente."},
+      {"t": "item", "n": "03", "title": "Saque de 80% do FGTS", "body": "E o empregado não tem direito ao seguro-desemprego."},
+      {"t": "item", "n": "04", "title": "Tem que ser acordo de verdade", "body": "Sem pressão. Acordo imposto pode ser anulado na Justiça."},
+      {"t": "cta", "title": "Salve para quando precisar", "body": "@renato.dodp"}
+    ],
+    "caption": "A demissão por acordo existe desde a reforma trabalhista e ainda gera muita confusão.\n\nA empresa paga 20% de multa do FGTS e metade do aviso prévio indenizado. O empregado saca 80% do FGTS e não recebe seguro-desemprego.\n\nO ponto mais importante: precisa ser uma decisão das duas partes. Acordo feito sob pressão pode ser anulado.\n\nSalva para quando precisar.\n\n#departamentopessoal #rescisao #reformatrabalhista #empresariosgoiania #goiania"
+  },
+  {
+    "id": "21", "date": "2026-11-11", "type": "single",
+    "tema": "NR-1 e riscos psicossociais",
+    "slide": {"t": "statement", "kicker": "NR-1", "title": "Riscos psicossociais agora fazem parte do <em>gerenciamento de riscos</em> da empresa.", "body": "Sobrecarga, metas abusivas e assédio entram no radar do PGR."},
+    "caption": "A NR-1 passou a incluir os fatores de risco psicossociais no gerenciamento de riscos ocupacionais.\n\nNa prática, a empresa precisa identificar, avaliar e agir sobre fatores como sobrecarga, metas excessivas, falta de clareza de papéis e assédio, e registrar isso no PGR.\n\nNão é só tema de RH. É obrigação de segurança e saúde no trabalho.\n\nSua empresa já começou a mapear esses riscos?\n\n#nr1 #riscospsicossociais #saudemental #empresariosgoiania #goiania"
+  },
+  {
+    "id": "22", "date": "2026-11-12", "type": "carousel",
+    "tema": "Sinais para terceirizar o DP",
+    "slides": [
+      {"t": "cover", "kicker": "Para donos e gestores", "title": "5 sinais de que é hora de <em>terceirizar</em> o DP", "body": "Quando o Departamento Pessoal começa a custar mais do que deveria."},
+      {"t": "item", "n": "01", "title": "Retrabalho todo fechamento", "body": "A folha sempre precisa de correção depois de rodada."},
+      {"t": "item", "n": "02", "title": "Tudo depende de uma pessoa", "body": "Se ela sai de férias ou pede demissão, o DP para."},
+      {"t": "item", "n": "03", "title": "Reclamações por erro de cálculo", "body": "Diferenças de horas extras, adicionais ou rescisões chegando na Justiça."},
+      {"t": "item", "n": "04", "title": "O dono resolve a folha", "body": "Tempo de gestão gasto em conferência operacional."},
+      {"t": "item", "n": "05", "title": "Ninguém acompanha mudanças", "body": "Convenção coletiva, eSocial e legislação mudam, e a folha não acompanha."},
+      {"t": "cta", "title": "Reconheceu 2 ou mais?", "body": "Vale conversar.", "extra": "Faço o diagnóstico do Departamento Pessoal de empresas em Goiânia e região. Fala comigo no direct."}
+    ],
+    "caption": "Terceirizar o Departamento Pessoal não é para toda empresa. Mas alguns sinais mostram que chegou a hora.\n\nRetrabalho em todo fechamento, dependência de uma única pessoa, reclamações por erro de cálculo, o dono gastando tempo com folha e ninguém acompanhando as mudanças de convenção e legislação.\n\nSe você reconheceu dois ou mais, vale uma conversa. Me chama no direct.\n\n#departamentopessoal #terceirizacao #bpo #empresariosgoiania #goiania"
+  }
+]
